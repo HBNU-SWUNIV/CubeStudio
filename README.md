@@ -33,10 +33,6 @@
 ![AppPlanning](https://github.com/user-attachments/assets/6a717cfe-30c5-4587-9794-fd72944fd930)
 ![AppPlanning](https://github.com/user-attachments/assets/c30d467c-63b2-442e-9820-5ba3e9c68511)
 
-<video src="Figma_video.mp4" width="600" controls>
-  Your browser does not support the video tag.
-</video>
-
 ## 개발환경
   - ### DBMS :
   - ### 개발 언어 :
