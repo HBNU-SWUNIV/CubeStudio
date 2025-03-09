@@ -13,6 +13,7 @@
 
 ## Project Background
   - ### 개요
+Cube Studio와 한밭대학교가 앞으로도 협력하여 진행할 수 있는 프로젝트를 기획하였다.
 학교의 공지사항, 학사 일정, 행사 등 다양한 정보를 확인하기 위해서는 여러 웹사이트를 방문해야 하고, 학교의 앱이 여러개로 나누어져 있어 이에 대해 불편함을 느꼈다. 이에 따라 하나의 통합된 앱을 개발하여 학생들이 한 곳에서 모든 대학 생활 관련 정보를 효율적으로 관리할 수 있도록 한다.
   - ### 필요성  
 **1. 분산된 정보의 비효율성 해소**  
@@ -32,3 +33,4 @@
 ## App Design
 ![AppPlanning](https://github.com/user-attachments/assets/6a717cfe-30c5-4587-9794-fd72944fd930)
 ![AppPlanning](https://github.com/user-attachments/assets/c30d467c-63b2-442e-9820-5ba3e9c68511)
+
