@@ -21,6 +21,17 @@
 &nbsp;&nbsp;&nbsp;수강신청, 도서관, 출입시스템, 학사 정보 등으로 앱이 여러 개로 나뉘어 있어 하나의 앱으로 통합해 불필요한 이동을 줄이고 접근성을 향상
 
 ## Brainstorming
+![brainstorming_1](https://github.com/user-attachments/assets/205d1018-de55-49c7-aff3-7ee4e8f59831)
+![brainstorming_2](https://github.com/user-attachments/assets/887f3573-a145-4309-84e9-7ee24bf1b52e)
+![brainstorming_3](https://github.com/user-attachments/assets/84d806c7-bbe7-4f9e-8e47-4b66c66de313)
+![brainstorming_4](https://github.com/user-attachments/assets/da410362-df10-46c4-8d4e-7145e9272915)
+
+## App Planning
+![AppPlanning](https://github.com/user-attachments/assets/0ef782df-ba82-429b-b7f0-a0cc7d433169)
+
+## App Design
+![AppPlanning](https://github.com/user-attachments/assets/6a717cfe-30c5-4587-9794-fd72944fd930)
+![AppPlanning](https://github.com/user-attachments/assets/c30d467c-63b2-442e-9820-5ba3e9c68511)
 
 ## 개발환경
   - ### DBMS :
